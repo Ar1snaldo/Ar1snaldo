@@ -1,14 +1,11 @@
 <h1 align="center">Iaee! Eu sou o <a href="https://www.linkedin.com/in/arisnaldo/"><i>Arisnaldo</i></a> 🕹️</h1>
+<p align="center">🔭Estou trabalhando com front-end - 😄 Verbos: Descolar/Nois descola - ⚡ Fun fact: Manipulo o mercado crypto com meu joystick</a>
 
-- 🔭 Estou trabalhando com front-end
-- 🌱 Estou estudando de tudo um pouco
-- 😄 Verbos: Descolar/Nois descola
-- ⚡ Fun fact: Manipulo o mercado crypto com meu joystick
 
 <div align="center">
   <a href="https://github.com/ar1snaldo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ar1snaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar1snaldo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ar1snaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar1snaldo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
