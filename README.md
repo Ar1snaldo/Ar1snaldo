@@ -25,3 +25,8 @@
   ![Snake animation](https://github.com/ar1snaldo/ar1snaldo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div align="center">
+  <p>Em busca de um emprego :pleading_face: </p>
+       <p>&#x20BF; 3PY8iGv4SAvsGcqKi5BJR8nq7ybMdH9C7t &#x20BF;</p>
+</div>
