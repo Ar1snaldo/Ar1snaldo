@@ -1,4 +1,4 @@
-<h1 align="center">Iaee! Eu sou o <a href="https://www.linkedin.com/in/arisnaldo/"><i>Arisnaldo</i></a> 🕹️</h1>
+<h1 align="center">Iaee! 👋, Eu sou o <a href="https://www.linkedin.com/in/arisnaldo/"><i>Arisnaldo</i></a> 🕹️</h1>
 <p align="center">🔭Estou trabalhando com front-end - 😄 Verbos: Descolar/Nois descola - ⚡ Fun fact: Manipulo o mercado crypto com meu joystick</a><br><br>
 <img align="center" height="150" style="border-radius:50px;"           
        src="/assets/gifzao.gif">
