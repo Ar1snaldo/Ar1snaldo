@@ -31,5 +31,5 @@
 
 <div align="center">
   <p>Em busca de um emprego :pleading_face: </p>
-       <p>&#x20BF; 3PY8iGv4SAvsGcqKi5BJR8nq7ybMdH9C7t &#x20BF;</p>
+       <p>&#x20BF; bc1qaypzhpa7jvgeyd0hgcmwcmt250excm4am7untv &#x20BF;</p>
 </div>
