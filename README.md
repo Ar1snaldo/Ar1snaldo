@@ -45,7 +45,7 @@
 </div>
 
 <hr/>
-<img align="center" height="150" style="border-radius:50px;"           
+<img align="center" style="border-radius:50px;"           
        src="/assets/gifzao.gif">
 <div align="center">
  <p>&#x20BF; bc1qaypzhpa7jvgeyd0hgcmwcmt250excm4am7untv &#x20BF;</p>
