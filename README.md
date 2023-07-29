@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 Atualmente estou estudando **Front end**
+ 📖 Atualmente estou estudando **Front end**
  
- 🌱 Aos poucos estou aprendendo **Back end**
+ 💻 Aos poucos estou aprendendo **Back end**
  
  ⚡ Fun fact **Manipulo o mercado cripto com meu joystick🕹️**
  
@@ -29,7 +29,7 @@
   </a>
 </div>
  <hr/>
-       <h2 align="center">⚒️ Linguagens-Frameworks ⚒️</h2>
+       <h2 align="center">🖥️ Linguagens-Frameworks 🖥️</h2>
          <br/>
          <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,github,mysql,vscode,git" />
@@ -47,6 +47,6 @@
 <hr/>
 
 <div align="center">
-  <p>Em busca de um emprego :pleading_face: </p>
-       <p>&#x20BF; bc1qaypzhpa7jvgeyd0hgcmwcmt250excm4am7untv &#x20BF;</p>
+   Em busca de um emprego :pleading_face:
+   &#x20BF; bc1qaypzhpa7jvgeyd0hgcmwcmt250excm4am7untv &#x20BF;
 </div>
