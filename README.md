@@ -9,9 +9,10 @@
 <br/>
 
 <div align="center">
- 🔭 Atualmente estou estudando **Front end**.
  
- 🌱 Aos poucos estou aprendendo **Back end**.
+ 🔭 Atualmente estou estudando **Front end**
+ 
+ 🌱 Aos poucos estou aprendendo **Back end**
  
  ⚡ Fun fact **Manipulo o mercado cripto com meu joystick🕹️**
  
@@ -31,7 +32,7 @@
        <h2 align="center">⚒️ Linguagens-Frameworks ⚒️</h2>
          <br/>
          <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,javascript,mysql,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,github,mysql,vscode,git" />
 </div>
 
 <br/>
@@ -39,9 +40,7 @@
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ar1snaldo/ar1snaldo/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
