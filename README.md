@@ -46,7 +46,7 @@
 
 <hr/>
 <div align="center">
-<img height="450" width"800" style="border-radius:50px;"           
+<img height="250" width="800" style="border-radius:50px;"           
        src="/assets/gifzao.gif">
  </div>
 <div align="center">
