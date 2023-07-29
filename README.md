@@ -47,6 +47,7 @@
 <hr/>
 
 <div align="center">
-   Em busca de um emprego :pleading_face:
-   &#x20BF; bc1qaypzhpa7jvgeyd0hgcmwcmt250excm4am7untv &#x20BF;
+ <p>&#x20BF; bc1qaypzhpa7jvgeyd0hgcmwcmt250excm4am7untv &#x20BF;</p>
+   
+   
 </div>
