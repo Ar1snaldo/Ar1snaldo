@@ -10,9 +10,7 @@
 
 <div align="center">
  🔭 Atualmente estou estudando Front end.
- 
  🌱 Aos poucos estou aprendendo Back end.
-
  ⚡ Fun fact **Manipulo o mercado cripto com meu joystick🕹️**
  
  </div>
