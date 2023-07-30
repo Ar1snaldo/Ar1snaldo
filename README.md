@@ -54,6 +54,7 @@
 </div>
 
 <br />
+<hr/>
 <div align="center">
   <p>&#x20BF; bc1qaypzhpa7jvgeyd0hgcmwcmt250excm4am7untv &#x20BF;</p>
 </div>
